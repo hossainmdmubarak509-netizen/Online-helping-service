@@ -1,0 +1,6 @@
+{
+  "name": "RechargeHub",
+  "description": "Manual mobile recharge and digital service selling platform with user wallet, deposit requests, admin approval, and order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
